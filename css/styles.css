@@ -697,6 +697,10 @@ body {
   display: flex;
 }
 
+.footer-label {
+  gap: 24px;
+}
+
 .footer-input {
   background-color: transparent;
   border: 1px solid var(--color-white-background);
@@ -705,7 +709,6 @@ body {
   padding-left: 16px;
   width: 264px;
   height: 40px;
-  gap: 24px;
   margin-right: 24px;
   font-size: 12px;
   line-height: 1.5;
